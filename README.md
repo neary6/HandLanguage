@@ -1,2 +1,2 @@
 # HandLanguage
-Hand language learner, help peoper learn hand language 
+Hand language learner, help peoper learn hand language easier
